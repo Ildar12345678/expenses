@@ -1,0 +1,9 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "dependencies": {
+    "color": "blue",
+    "size": "big",
+    "shape": "circle"
+  }
+}
